@@ -1,5 +1,5 @@
 # MQL5SQLite
-wrapper for MQL5 SqlLite.
+wrapper for MQL5 SqlLite with C++ template.
 
 # Example
 
