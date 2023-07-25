@@ -1,9 +1,3 @@
-# MQL5SQLite
-wrapper for MQL5 SqlLite.
-
-# Example
-
-```
 #include "DataBase.mqh"
 
 struct AA
@@ -48,5 +42,3 @@ void OnStart()
     delete p2;
     
 }
-
-```
